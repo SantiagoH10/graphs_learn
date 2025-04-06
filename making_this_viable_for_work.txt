@@ -1,0 +1,9 @@
+How to make this stuff actually possible to insert into a damn report?
+
+First of all, get vol_contrib_data in csv UTF-8 and not only csv (encoding problems)
+
+Create a separate file for variables that auto update (current_year and current_week and not hard coded)
+
+My idea for now is to get to know the libraries and options they offer and just try to make the most of it
+without thinking on how I'm going to present all that (maybe an online code editor or even Python in Excel supports it)
+
