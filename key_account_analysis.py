@@ -169,3 +169,5 @@ def client_pareto_analysis(df, year, week, trades):
     plt.suptitle(f'Client Importance Analysis - Week {week}, {year}', fontsize=16, y=0.98)
     
     return fig
+
+#Adapt the function for commodities
